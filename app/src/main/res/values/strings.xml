@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProviderApp</string>
+    <string name="requestSNS">Запросить разрешение на СМС</string>
+</resources>
